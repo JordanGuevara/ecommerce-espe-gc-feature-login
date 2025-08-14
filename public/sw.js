@@ -2,7 +2,7 @@ const CACHE_NAME = 'ecommerce-pwa-v1';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/src/styles/main.css',
+  '/src/index.css',
   '/src/main.ts',
   '/src/components/espe-login.ts',
   '/manifest.json',
