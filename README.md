@@ -17,7 +17,7 @@ Esta es una Progressive Web App (PWA) desarrollada con Vite, TypeScript y Lit, u
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone <tu-repositorio-git>
+   git clone https://github.com/JordanGuevara/ecommerce-espe-gc-feature-login
    cd ecommerce-espe-gc
    ```
 2. **Instalar Dependencias**:
